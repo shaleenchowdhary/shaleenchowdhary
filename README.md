@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @shaleenchowdhary
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Meta Front-End Developer Professional Certificate (It's a series of 9 courses) from Coursera
-- 💞️ I’m looking to collaborate on projects, internships, anything that help me to sharpen my skills 
+👋 Hi, I'm a frontend web developer with a keen interest in building user-centric and visually appealing web applications. My skill set includes:
+
+HTML, CSS, JavaScript: Crafting responsive and interactive web pages.<br/>
+React.js: Developing dynamic and scalable web applications.<br/>
+Tailwind CSS: Implementing modern and flexible UI designs.<br/>
+Git: Version control for efficient project collaboration.<br/>
+Python: Enhancing web projects with additional functionality.<br/>
+I'm passionate about learning new technologies and continuously improving my skills. Check out my repositories to see some of my work!
+
 - 📫 reach me at:
   - shlnchowdhary@gmail.com
   - telegram: @kmgtp
