@@ -9,7 +9,6 @@ I'm passionate about learning new technologies and continuously improving my ski
 
 - 📫 reach me at:
   - shlnchowdhary@gmail.com
-  - telegram: @kmgtp
 
 <!---
 shaleenchowdhary/shaleenchowdhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
